@@ -90,7 +90,6 @@ function renderBox() {
     box.style.height = box.style.width = boxSize + 'px'
     box.style.position = 'absolute'
     box.style.backgroundColor = colors[randomColorIndex]
-    box.style.outline = '3px solid blue'
     box.style.top = getRandom(0,maxTop) + 'px'
     box.style.left = getRandom(0, maxLeft) + 'px'
     box.style.cursor = 'pointer'
