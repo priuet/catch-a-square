@@ -13,6 +13,7 @@ body {
   align-items: center;
   padding: 20px;
   overflow: hidden;
+  font-family: 'Helvetica', 'Open Sans', sans-serif;
   background: background: rgba(233, 232, 240, 1.0);
 background: -webkit-radial-gradient(center, rgba(233, 232, 240, 1.0), rgba(203, 197, 247, 1.0));
 background: -moz-radial-gradient(center, rgba(233, 232, 240, 1.0), rgba(203, 197, 247, 1.0));
